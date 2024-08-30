@@ -1,0 +1,2 @@
+REACT_APP_GEO_DB_API_KEY=<Enter Your GEO DB API KEY>
+REACT_APP_GEO_DB_API_URL=https://wft-geo-db.p.rapidapi.com/v1
